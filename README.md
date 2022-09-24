@@ -1,4 +1,4 @@
-# cleanbat
+# CLEANBAT 
 |Clean temporary files on Windows ever reboot!|
 |---------------------------------------------|
 |1) Download the cleaner.bat                  |
