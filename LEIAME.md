@@ -1,4 +1,4 @@
-#CLEANBAT
+# CLEANBAT
 |Limpar arquivos temporários no Windows ao reinicializar!|
 |---------------------------------------------|
 |1) Baixe o cleaner.bat |
