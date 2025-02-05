@@ -1,4 +1,6 @@
-# CLEANBAT 
+# CLEANBAT
+[![DOI](https://zenodo.org/badge/540927024.svg)](https://doi.org/10.5281/zenodo.14809394)
+
 |Clean temporary files on Windows ever reboot!|
 | For pt-br version of this readme click [here.](https://github.com/cristiancmoises/cleanbat/blob/main/LEIAME.md)|
 |---------------------------------------------|
